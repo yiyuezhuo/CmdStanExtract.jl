@@ -1,0 +1,13 @@
+name = "CmdStanExtract"
+uuid = "0076435e-aec5-4d35-b51a-d055ad84b90d"
+authors = ["yiyuezhuo <yiyuezhuo@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
